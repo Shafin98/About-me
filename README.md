@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shafin98
-- 👀 I’m interested in web projects
+- 👀 I’m interested in Web Projects, Machine Learning, Data Analysis, Game Development
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me -> email: shafinahad98@gmail.com
