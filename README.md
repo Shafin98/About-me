@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shafin98
+- 👋 Hi, I’m Shafin Ahad Siam 
 - 👀 I’m interested in Web Projects, Machine Learning, Data Analysis, Game Development
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on group projects
