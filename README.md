@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shafin Ahad Siam 
 - 👀 I’m interested in Web Projects, Machine Learning, Data Analysis, Game Development
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning DL, CNN & Vision learing
 - 💞️ I’m looking to collaborate on group projects
-- 📫 How to reach me -> email: shafinahad98@gmail.com
+- 📫 How to reach me -> email: 98sasiam@gmail.com
 
 <!---
 Shafin98/Shafin98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
