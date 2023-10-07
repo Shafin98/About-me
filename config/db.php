@@ -1,6 +1,6 @@
 <?php
     //creating connections
-    $conn = mysqli_connect('localhost','root','','370main');
+    $conn = mysqli_connect('localhost','root','','project');
 
     //check connection
     if(mysqli_connect_errno()){
